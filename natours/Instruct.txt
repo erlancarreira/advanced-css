@@ -1,0 +1,5 @@
+NPM INT > Inicializa o repositório npm criando um arquivo .json
+
+NPM INSTALL NODE-SASS --SAVE-DEV > Instala a dependência SASS dentro da pasta do node como uma dependência de desenvolvimento.
+
+NPM INSTALL > Instala todas as dependências requeridas para o uso.
